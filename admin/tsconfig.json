@@ -23,7 +23,7 @@
 	},
 	"include": [
 		"vite.config.*",
-		"env.d.ts",
+		"src/env.d.tsd.ts",
 		"src/**/*",
 		"src/**/*.vue",
 		"mock/**/*.ts",
